@@ -1,3 +1,3 @@
 # .Net-7-Web-API
 
-Open the Documentation html in browser for the documentation on this API.
+Open the Documentation.html file in browser to see documentation on this API.
